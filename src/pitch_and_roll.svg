@@ -1,0 +1,42 @@
+<svg width="238" height="238" viewBox="0 0 238 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M119 237C184.17 237 237 184.17 237 119C237 117.293 236.964 115.594 236.892 113.905L236 112.5C236 112.5 185.5 105 120.5 105C55.5 105 2 112.5 2 112.5L1.02079 116.762C1.00695 117.507 1 118.253 1 119C1 184.17 53.8304 237 119 237Z" fill="#BEBEBE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1.56878 112.5C1.56878 112.5 55.0688 105 120.069 105C185.069 105 235.569 112.5 235.569 112.5L236.239 110.106C231.692 49.0906 180.746 1 118.569 1C56.8215 1 6.15155 48.4274 1 108.841L1.56878 112.5Z" fill="#C0E8FF"/>
+<path d="M20 182C20 182 57.5 175 120 175C182.5 175 218 182 218 182" stroke="white" stroke-opacity="0.44"/>
+<path d="M28.5 44C28.5 44 63.1818 39.5 120 39.5C176.818 39.5 209.5 44 209.5 44" stroke="#888888" stroke-opacity="0.28"/>
+<path d="M51.5 186.5H186.624" stroke="white"/>
+<path d="M53 50H185" stroke="#888888"/>
+<path d="M71.5 201.5L106 105" stroke="black" stroke-opacity="0.28"/>
+<rect x="119" y="105" width="2" height="12" fill="white" fill-opacity="0.44"/>
+<rect x="119" y="127" width="2" height="11" fill="white" fill-opacity="0.44"/>
+<rect x="119" y="149" width="2" height="11" fill="white" fill-opacity="0.44"/>
+<rect x="119" y="170" width="2" height="11" fill="white" fill-opacity="0.44"/>
+<rect x="119" y="183" width="2" height="3" fill="white"/>
+<rect x="119" y="191" width="2" height="11" fill="white" fill-opacity="0.44"/>
+<path d="M28 180.5L30 183.5" stroke="white"/>
+<path d="M58 177.5L58.5 180.5" stroke="white" stroke-opacity="0.44"/>
+<path d="M97 175.5V179" stroke="white" stroke-opacity="0.44"/>
+<path d="M79 183.5V186" stroke="white"/>
+<path d="M163 183.5V186" stroke="white"/>
+<path d="M139 175.5V179" stroke="white" stroke-opacity="0.44"/>
+<path d="M179 177.5L178.5 180.5" stroke="white" stroke-opacity="0.44"/>
+<path d="M209 180.5L207.5 183.5" stroke="white"/>
+<path d="M168 201L133.5 105" stroke="black" stroke-opacity="0.28"/>
+<path d="M163 50.5V53" stroke="#888888"/>
+<path d="M139 37V39.5" stroke="#888888" stroke-opacity="0.28"/>
+<path d="M178.5 38.5L179 41" stroke="#888888"/>
+<path d="M97 37V39.5" stroke="#888888" stroke-opacity="0.28"/>
+<path d="M59 38.5L58 41.5" stroke="#888888"/>
+<path d="M120 50V53.5" stroke="#888888" stroke-width="2"/>
+<path d="M78 50V53" stroke="#888888"/>
+<path d="M20 182C20 182 27.3137 180.683 32 180C36.6863 179.317 44 178.5 44 178.5" stroke="white"/>
+<path d="M194 178.5C194 178.5 201.314 179.317 206 180C210.686 180.683 218 182 218 182" stroke="white"/>
+<path d="M174.5 41C174.5 41 185.568 41.4142 192.5 42C199.432 42.5858 210 44 210 44" stroke="#888888"/>
+<path d="M28.5 44C28.5 44 39.0682 42.5858 46 42C52.9318 41.4142 64 41 64 41" stroke="#888888"/>
+<circle cx="119" cy="119" r="95.5" stroke="#EE8700"/>
+<circle cx="119" cy="119" r="118" stroke="#A6A6A6" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 118H214V109.853C193.211 107.694 159.46 105 120.5 105C80.8986 105 45.5659 107.784 24 109.96V118Z" fill="white" fill-opacity="0.28"/>
+<path d="M2 112.5C2 112.5 55.5 105 120.5 105C185.5 105 236 112.5 236 112.5" stroke="#898989"/>
+<path d="M24 118H214" stroke="white"/>
+<path d="M214 110C214 110 220.607 110.512 225 111C229.393 111.488 236.5 112.5 236.5 112.5" stroke="black"/>
+<path d="M2 112.5C2 112.5 8.80186 111.488 13 111C17.1981 110.512 23.5 110 23.5 110" stroke="black"/>
+</svg>
